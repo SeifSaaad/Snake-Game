@@ -4,7 +4,7 @@ A modern, cyberpunk-themed implementation of the classic Snake game built with R
 
 This project is built with bolt.new.
 
-![Cyberpunk Snake Game](https://imgur.com/gNdnmeD)
+![Cyberpunk Snake Game](https://i.imgur.com/gNdnmeD.png)
 
 ## 🎮 Features
 
